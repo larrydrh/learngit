@@ -3,5 +3,9 @@ what will happen to 'git status' command if i added this line?
 add a new line
 to understand the work field and stage field.
 test branch
+<<<<<<< HEAD
 creating a new branch
 added a text line to branch feature1
+=======
+i added a textline to master's file
+>>>>>>> master
