@@ -11,3 +11,4 @@ i added a textline to master's file
 >>>>>>> master
 
 added a line in dev to test rebase
+added another line in dev to test rebase
