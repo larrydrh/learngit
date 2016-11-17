@@ -17,3 +17,7 @@ i added a line in master to test rebase
 
 added a line in main to test git workthrough
 another test
+
+git test temp store
+
+added a line to test the workthrough of git
